@@ -12,5 +12,3 @@ What I have implemented
 
 What I have not implemented
  - Create new, load, save, and full-size option in the menu bar
-
-NO Enhancements.
